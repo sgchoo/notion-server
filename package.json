@@ -13,6 +13,8 @@
   "dependencies": {
     "@notionhq/client": "^2.2.15",
     "dotenv": "^16.4.5",
+    "electron": "^32.1.0",
+    "electron-builder": "^25.0.5",
     "express": "^4.19.2",
     "node-schedule": "^2.1.1"
   }
